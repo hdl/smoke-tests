@@ -2,8 +2,8 @@
 
 . $(dirname "$0")/common.sh
 
-ST_LOGFILE=./prjtrellis.log
+ST_LOGFILE=./ecpprog.log
 
 [ -f "$ST_LOGFILE" ] && rm -rf "$ST_LOGFILE" || true
 
-test_help ecpbram ecpmulti ecppack ecppll ecpunpack
+test_help ecpprog
