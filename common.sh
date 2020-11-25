@@ -24,7 +24,7 @@ test_help() {
     $tool --help >> "$ST_LOGFILE" 2>&1
     exit_code=$?
     printf "· $tool help: exit code $exit_code | "
-    if [ "$exit_code" = "0" ] || [ "$exit_code" = "64" ]; then
+    if [ "$exit_code" = "0" ] || [ "$exit_code" = "1" ] || [ "$exit_code" = "64" ]; then
       printf "${ANSI_GREEN}OK${ANSI_NOCOLOR}\n"
     else
       printf "${ANSI_RED}FAIL${ANSI_NOCOLOR}\n"
