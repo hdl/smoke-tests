@@ -2,8 +2,8 @@
 
 . $(dirname "$0")/common.sh
 
-ST_LOGFILE=./icestorm.log
+ST_LOGFILE=./iceprog.log
 
 [ -f "$ST_LOGFILE" ] && rm -rf "$ST_LOGFILE" || true
 
-test_help icebram icemulti icepack icepll icetime
+test_help iceprog

@@ -5,6 +5,7 @@ stdir="$(dirname "$0")"
 "$stdir"/bootlector.sh
 "$stdir"/dfu-util.sh
 "$stdir"/ghdl.sh
+"$stdir"/iceprog.sh
 "$stdir"/icestorm.sh
 "$stdir"/nextpnr.sh
 "$stdir"/openFPGALoader.sh
