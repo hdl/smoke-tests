@@ -9,7 +9,7 @@ Existing third-party testsuites and examples typically require additional depend
 - [x] [ghdl](https://github.com/ghdl/ghdl)
 - [ ] [ghdl-yosys-plugin](https://github.com/ghdl/ghdl-yosys-plugin)
 - [ ] [gtkwave](https://github.com/gtkwave/gtkwave)
-- [x] [icestorm](https://github.com/cliffordwolf/icestorm)
+- [x] [icestorm](https://github.com/YosysHQ/icestorm)
 - [ ] [iverilog](https://github.com/steveicarus/iverilog)
 - [ ] [netlistsvg](https://github.com/nturley/netlistsvg)
 - [x] [nextpnr](https://github.com/YosysHQ/nextpnr)
