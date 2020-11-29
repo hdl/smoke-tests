@@ -30,6 +30,7 @@ Board programming:
 - [x] [dfu-util](http://dfu-util.sourceforge.net/)
 - [ ] [ecpprog](https://github.com/gregdavill/ecpprog)
 - [ ] [fujprog](https://github.com/kost/fujprog)
-- [ ] [icesprog](https://github.com/wuxx/icesugar/tree/master/tools)
+- [x] [iceprog](https://github.com/YosysHQ/icestorm)
+- [x] [icesprog](https://github.com/wuxx/icesugar/tree/master/tools)
 - [x] [openFPGALoader](https://github.com/trabucayre/openFPGALoader)
 - [ ] [openocd](http://openocd.org/)
