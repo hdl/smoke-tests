@@ -7,7 +7,9 @@ stdir="$(dirname "$0")"
 "$stdir"/ecpprog.sh
 "$stdir"/ghdl.sh
 "$stdir"/iceprog.sh
+"$stdir"/icesprog.sh
 "$stdir"/icestorm.sh
+"$stdir"/iverilog.sh
 "$stdir"/nextpnr.sh
 "$stdir"/openFPGALoader.sh
 "$stdir"/prjtrellis.sh
