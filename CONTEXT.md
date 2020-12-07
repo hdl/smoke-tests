@@ -24,15 +24,25 @@ This provides the easiest setup approach and it allows having multiple versions 
 
 This provides the less invasive solution, because no tools are installed on the host, besides the container runtime. Moreover, the behaviour of the tools is exactly the same, regardless of the host OS. However, on Windows, accessing USB devices from containers is not straightforward. See [ ghdl/docker: usbip/README.md > USB/IP protocol support for Docker Desktop](https://github.com/ghdl/docker/tree/master/usbip).
 
-## WebAssembly packages
-
-[YoWASP](http://yowasp.org/) aims to distribute tools form [YosysHQ](https://github.com/YosysHQ/) compiled to [WebAssembly](https://webassembly.org/) via language package managers like Python’s [PyPI](https://pypi.org/).
-
 ## Conda packages
 
 [SymbiFlow/conda-packages](https://github.com/SymbiFlow/conda-packages), [SymbiFlow/fpga-tool-perf](https://github.com/SymbiFlow/fpga-tool-perf), [litex-hub/litex-conda-eda](https://github.com/litex-hub/litex-conda-eda), [litex-hub/litex-conda-packages](https://github.com/litex-hub/litex-conda-packages), [antmicro/conda-build-prepare-actions](https://github.com/antmicro/conda-build-prepare-actions)... provide and use non-static packages through [Conda](https://conda.io).
 
 Conda is an *open source package management system and environment management system that runs on Windows, macOS and Linux*. However, for Conda packages to install/configure tools, those need to be previously compiled or available as pre-built packages. Therefore, Conda packages can indeed be wrappers around any of the previous solutions.
+
+## CIPD (Chrome Infrastructure Package Deployment)
+
+[github.com/luci/luci-go/tree/master/cipd](https://github.com/luci/luci-go/tree/master/cipd)
+
+## Bazel rules
+
+[hdl/bazel_rules_hdl](https://github.com/hdl/bazel_rules_hdl)
+
+Bazel is an open-source build and test tool similar to Make, Maven, and Gradle, which supports projects in multiple languages and builds outputs for multiple platforms.
+
+## WebAssembly packages
+
+[YoWASP](http://yowasp.org/) aims to distribute tools form [YosysHQ](https://github.com/YosysHQ/) compiled to [WebAssembly](https://webassembly.org/) via language package managers like Python’s [PyPI](https://pypi.org/).
 
 ---
 
