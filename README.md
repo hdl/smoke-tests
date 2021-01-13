@@ -1,3 +1,10 @@
+<p align="center">
+  <a title="hdl/packages GitHub repository" href="https://github.com/hdl/packages"><img src="https://img.shields.io/badge/hdl-packages-f2f1ef.svg?longCache=true&style=flat-square&logo=GitHub&logoColor=f2f1ef"></a><!--
+  -->
+  <a title="hdl/community on gitter.im" href="https://gitter.im/hdl/community"><img src="https://img.shields.io/gitter/room/hdl/community.svg?longCache=true&style=flat-square&logo=gitter&logoColor=fff&color=4db797"></a><!--
+  -->
+</p>
+
 # Smoke tests
 
 As discussed in [hdl/packages](https://github.com/hdl/packages), there is a thriving activity for providing ready-to-use packages of open source [electronic design automation (EDA)](https://en.wikipedia.org/wiki/Electronic_design_automation) tooling: static build, dynamic builds, containers, Conda... Regardless of the packaging approach, most integration and distribution projects need to build each tool using some custom options, and then ensure that the produced artifacts are valid. Running full test suites included in project codebases is sometimes not possible, because CI services timeout. Nevertheless, EDA tools are expected to be thoroughly tested upstream; so, integrators need a set of quick sanity tests.
