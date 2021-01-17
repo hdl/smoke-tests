@@ -6,6 +6,7 @@ stdir="$(dirname "$0")"
 "$stdir"/dfu-util.sh
 "$stdir"/ecpprog.sh
 "$stdir"/ghdl.sh
+"$stdir"/gtkwave.sh
 "$stdir"/iceprog.sh
 "$stdir"/icesprog.sh
 "$stdir"/icestorm.sh

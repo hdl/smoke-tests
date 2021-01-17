@@ -15,7 +15,7 @@ Existing third-party testsuites and examples typically require additional depend
 - [ ] [cocotb](https://hdl.github.io/awesome/items/cocotb)
 - [x] [GHDL](https://hdl.github.io/awesome/items/ghdl)
 - [ ] [ghdl-yosys-plugin](https://hdl.github.io/awesome/items/ghdl-yosys-plugin)
-- [ ] [GTKWave](https://hdl.github.io/awesome/items/gtkwave)
+- [x] [GTKWave](https://hdl.github.io/awesome/items/gtkwave)
 - [x] [icestorm](https://hdl.github.io/awesome/items/icestorm)
 - [x] [Icarus Verilog](https://hdl.github.io/awesome/items/iverilog)
 - [ ] [netlistsvg](https://hdl.github.io/awesome/items/netlistsvg)
