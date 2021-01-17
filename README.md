@@ -36,7 +36,7 @@ Existing third-party testsuites and examples typically require additional depend
 Board programming:
 
 - [x] [dfu-util](https://hdl.github.io/awesome/items/dfu-util)
-- [ ] [ecpprog](https://hdl.github.io/awesome/items/ecpprog)
+- [x] [ecpprog](https://hdl.github.io/awesome/items/ecpprog)
 - [ ] [fujprog](https://hdl.github.io/awesome/items/fujprog)
 - [x] [iceprog](https://hdl.github.io/awesome/items/icestorm)
 - [x] [icesprog](https://github.com/wuxx/icesugar/tree/master/tools)
