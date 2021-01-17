@@ -25,7 +25,7 @@ Existing third-party testsuites and examples typically require additional depend
 - [ ] [Surelog](https://hdl.github.io/awesome/items/surelog)
 - [x] [SymbiYosys](https://hdl.github.io/awesome/items/symbiyosys)
 - [ ] [Verible](https://hdl.github.io/awesome/items/verible)
-- [ ] [Verilator](https://hdl.github.io/awesome/items/verilator)
+- [x] [Verilator](https://hdl.github.io/awesome/items/verilator)
 - [ ] [VPR](https://hdl.github.io/awesome/items/vpr)
 - [ ] [VTR](https://hdl.github.io/awesome/items/vtr)
 - [ ] [VUnit](https://hdl.github.io/awesome/items/vunit)

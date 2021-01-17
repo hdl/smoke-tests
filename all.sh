@@ -14,6 +14,7 @@ stdir="$(dirname "$0")"
 "$stdir"/openFPGALoader.sh
 "$stdir"/prjtrellis.sh
 "$stdir"/symbiyosys.sh
+"$stdir"/verilator.sh
 "$stdir"/yices.sh
 "$stdir"/yosys.sh
 "$stdir"/z3.sh
