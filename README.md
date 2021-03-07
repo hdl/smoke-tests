@@ -16,6 +16,7 @@ Existing third-party testsuites and examples typically require additional depend
 - [GTKWave](https://hdl.github.io/awesome/items/gtkwave)
 - [icestorm](https://hdl.github.io/awesome/items/icestorm)
 - [Icarus Verilog](https://hdl.github.io/awesome/items/iverilog)
+- [KLayout](https://hdl.github.io/awesome/items/klayout)
 - [nextpnr](https://hdl.github.io/awesome/items/nextpnr)
 - [Project Trellis](https://hdl.github.io/awesome/items/prjtrellis)
 - [SymbiYosys](https://hdl.github.io/awesome/items/symbiyosys)
