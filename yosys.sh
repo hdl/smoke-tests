@@ -2,7 +2,7 @@
 
 . $(dirname "$0")/common.sh
 
-ST_LOGFILE=./symbiyosys.log
+ST_LOGFILE=./yosys.log
 
 [ -f "$ST_LOGFILE" ] && rm -rf "$ST_LOGFILE" || true
 
