@@ -11,7 +11,7 @@ As discussed in [hdl/packages](https://github.com/hdl/packages), there is a thri
 
 Existing third-party testsuites and examples typically require additional dependencies for testing multiple tools at the same time. However, integration/distribution strategies do not always build all the tools in the same environment. Therefore, a fine grained approach to test definition is required. In analogy to electrical smoke testing, [smoke testing (software)](https://en.wikipedia.org/wiki/Smoke_testing_%28software%29) is a subset of test cases that cover the most important functionality of a software tool. This repository contains smoke tests for the following tools:
 
-- [Bootlector](https://hdl.github.io/awesome/items/boolector)
+- [Boolector](https://hdl.github.io/awesome/items/boolector)
 - [GHDL](https://hdl.github.io/awesome/items/ghdl)
 - [GTKWave](https://hdl.github.io/awesome/items/gtkwave)
 - [icestorm](https://hdl.github.io/awesome/items/icestorm)
