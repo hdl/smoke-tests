@@ -21,6 +21,8 @@ Existing third-party testsuites and examples typically require additional depend
 - [Project Trellis](https://hdl.github.io/awesome/items/prjtrellis)
 - [SymbiYosys](https://hdl.github.io/awesome/items/symbiyosys)
 - [Verilator](https://hdl.github.io/awesome/items/verilator)
+- [VTR](https://hdl.github.io/awesome/items/vtr)
+  - [VPR](https://hdl.github.io/awesome/items/vpr)
 - [Yices 2](https://hdl.github.io/awesome/items/yices2)
 - [Yosys](https://hdl.github.io/awesome/items/yosys)
 - [Z3](https://hdl.github.io/awesome/items/z3)
@@ -39,8 +41,6 @@ To Do:
 - [sigrok-cli](https://hdl.github.io/awesome/items/sigrok-cli)
 - [Surelog](https://hdl.github.io/awesome/items/surelog)
 - [Verible](https://hdl.github.io/awesome/items/verible)
-- [VPR](https://hdl.github.io/awesome/items/vpr)
-- [VTR](https://hdl.github.io/awesome/items/vtr)
 - [VUnit](https://hdl.github.io/awesome/items/vunit)
 - Board programming:
   - [fujprog](https://hdl.github.io/awesome/items/fujprog)
