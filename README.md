@@ -18,6 +18,7 @@ Existing third-party testsuites and examples typically require additional depend
 - [Icarus Verilog](https://hdl.github.io/awesome/items/iverilog)
 - [KLayout](https://hdl.github.io/awesome/items/klayout)
 - [nextpnr](https://hdl.github.io/awesome/items/nextpnr)
+- [Project Oxide](https://hdl.github.io/awesome/items/prjoxide)
 - [Project Trellis](https://hdl.github.io/awesome/items/prjtrellis)
 - [SymbiYosys](https://hdl.github.io/awesome/items/symbiyosys)
 - [Verilator](https://hdl.github.io/awesome/items/verilator)
